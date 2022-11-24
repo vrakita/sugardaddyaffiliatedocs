@@ -6,7 +6,7 @@
 | --------- | -------- | ------- |
 | email    | **Yes**      | Valid email address       |
 | gender | **Yes** | `0` - male, `1` - female
-| age | **Yes** | `16` - `120` |
+| age | **Yes** | `18` - `100` |
 | username | **Yes** | Between 3 and 15 characters. Numbers (max 4 digits), letters, dash and underscore are allowed. |
 | ethnicity | No | `0` - white,`1` - black, `2` - asian, `3` - hispanic, `4` - indian, `5` - eastern `6` - other |
 | lang | No | `en` - English, `it` - Italian, `de` - German, `fr` - French
